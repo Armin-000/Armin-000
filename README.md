@@ -54,14 +54,5 @@ Interactive 3D viewer with scene rendering, animations, and camera controls.
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Armin-000&show_icons=false&hide_border=true&theme=transparent)
-
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Armin-000&layout=compact&hide_border=true&theme=transparent)
-
-
----
-
 ## Contact
-armin.alisic.dev@gmail.com
+armin.lisic000@gmail.com
