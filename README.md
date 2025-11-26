@@ -20,50 +20,26 @@ My goal is to ship code that is practical, maintainable, and understandable for 
 
 ## Contact
 
-<p align="center" style="margin-bottom: 10px;">
-
-  <!-- EMAIL DROPDOWN -->
-  <details style="display:inline-block;">
-    <summary style="display:flex; align-items:center; cursor:pointer; list-style:none;">
-      <img 
-        src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" 
-        alt="Email"
-      />
-      <span style="margin-left: 6px; font-size: 14px; color:#8b949e;">▼</span>
-    </summary>
-
-  <br/>
-
-  <!-- GLASS CARD EFFECT -->
-  <div align="center">
-    <div style="
-      background: rgba(255, 255, 255, 0.05);
-      border: 1px solid rgba(255, 255, 255, 0.12);
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
-      border-radius: 10px;
-      padding: 12px 20px;
-      width: fit-content;
-    ">
-      <b style="color:#e6edf3;">Email:</b>
-      <code style="font-size: 14px;">armin.lisic000@gmail.com</code>
-    </div>
-  </div>
-
-  </details>
-
-  <!-- SPACE BETWEEN ICONS -->
-  &nbsp;&nbsp;&nbsp;
-
-  <!-- INSTAGRAM ICON -->
+<p align="center">
+  <a href="mailto:armin.lisic000@gmail.com">
+    <img 
+      src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" 
+      alt="Email"
+    />
+  </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/arminlisic/" target="_blank">
     <img 
       src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" 
       alt="Instagram"
     />
   </a>
-
 </p>
+
+<p align="center">
+  <sub>Email: <code>armin.lisic000@gmail.com</code></sub>
+</p>
+
 
 
 ---
