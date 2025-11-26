@@ -21,13 +21,12 @@ My goal is to write code that is practical, maintainable and easy to understand 
 
 ## Contact
 
-If you want to reach out or collaborate:
-
-**Email:**  
+For collaboration or questions:  
 `armin.lisic000@gmail.com`
 
 **Instagram:**  
-[![Instagram][(https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TVOJ_INSTAGRAM)](https://www.instagram.com/arminlisic/)
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arminlisic/)
+
 
 ---
 
