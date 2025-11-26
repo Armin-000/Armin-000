@@ -21,28 +21,24 @@ My goal is to ship code that is practical, maintainable, and understandable for 
 ## Contact
 
 <p align="center">
-  <!-- Instagram badge (stalno vidljiv) -->
+  <!-- Email dropdown -->
+  <details>
+    <summary style="display:inline-block; cursor:pointer;">
+      <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+    </summary>
+    <p align="center">
+      <br/>
+      <b>Email:</b> <code>armin.lisic000@gmail.com</code>
+    </p>
+  </details>
+
+  <!-- Instagram badge -->
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/arminlisic/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
-<details>
-  <summary align="center">
-    <!-- Email badge (klikom otvara "glass" karticu s mailom) -->
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    <br/>
-    <sub>Click to reveal email</sub>
-  </summary>
-
-  <br/>
-
-  <p align="center">
-    <blockquote>
-      <b>Email:</b> <code>armin.lisic000@gmail.com</code>
-    </blockquote>
-  </p>
-</details>
 
 ---
 
