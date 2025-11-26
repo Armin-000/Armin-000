@@ -1,7 +1,7 @@
-<!-- Typing effect header -->
+<!-- Typing Header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1700&pause=950&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+for+the+web;Creating+clean%2C+modern+and+scalable+applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1100&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+for+the+web;Creating+clean%2C+modern+and+scalable+applications"
     alt="Typing SVG"
   />
 </p>
@@ -10,11 +10,11 @@
 
 ## About Me
 
-My name is Armin. I am a developer focused on local AI, LLM workflows, and full-stack web development.  
-I enjoy designing systems that are clean, well-structured, and reliable, and I am especially interested in how AI can improve real development workflows.
+I'm Armin — a developer focused on **local AI**, **LLM workflows**, and **full-stack engineering**.  
+My work blends backend logic, database systems, modern frontend development, and interactive 3D web technologies.
 
-I work across backend logic, databases, modern frontend stacks, and interactive 3D web components.  
-My goal is to ship code that is practical, maintainable, and understandable for other developers – not just “works once”.
+I care about **clean structure**, **maintainable code**, and **practical solutions**.  
+I enjoy exploring how AI can enhance and streamline real development workflows.
 
 ---
 
@@ -37,16 +37,14 @@ My goal is to ship code that is practical, maintainable, and understandable for 
 </p>
 
 <p align="center">
-  <sub>Email: <code>armin.lisic000@gmail.com</code></sub>
+  <sub><code>armin.lisic000@gmail.com</code></sub>
 </p>
-
-
 
 ---
 
 ## Tech Stack
 
-### Languages & Frontend
+### Core Languages & Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -69,60 +67,59 @@ My goal is to ship code that is practical, maintainable, and understandable for 
 
 ## Local AI & LLM Development
 
-I work with local AI setups using Ollama, embeddings, and structured LLM pipelines.  
-The focus is on running AI tools efficiently on local hardware instead of depending on external cloud services.
+I work with **local inference**, **embeddings**, and **structured LLM pipelines** to build tools that perform efficiently without relying on cloud infrastructure.
 
-I experiment with:
+Focus areas include:
 - custom LLM assistants  
-- prompt-driven workflows and chains  
-- local inference optimization  
-- API integrations for AI-augmented applications  
+- prompt/chain workflows  
+- local model optimization  
+- API-driven AI integrations  
 
 ---
 
 ## Full-Stack & Web Engineering
 
-I build end-to-end applications with an emphasis on structure, clarity, and long-term maintainability.
+I build end-to-end applications with emphasis on clarity and scalable structure.
 
 Key areas:
-- backend logic, routing, and API design  
+- backend logic & API architecture  
 - database-driven systems (MySQL, HeidiSQL)  
-- modern, clear UI/UX  
-- Three.js real-time 3D components  
-- high-performance animation pipelines (GSAP)  
-- AI-enhanced features inside web applications  
+- frontend engineering & UI/UX design  
+- 3D interfaces (Three.js)  
+- high-performance animation (GSAP)  
+- AI-augmented web features  
 
 ---
 
-## Featured Projects  
+## Featured Projects
 
-Pinned repositories on my profile represent my current direction and interests, including:
+My most relevant work is showcased in pinned repositories, including:
 
-- **Nexora** — local AI assistant based on structured LLM workflows  
-- **3D-Models-Nucleus** — real-time Three.js viewer for Cochlear 3D models  
-- **Portfolio Profile** — clean, dark-themed personal interface  
-- **Meteor Game / Snake Game** — small JS browser games focused on core logic  
-- **Teradata Simulation** — Python dataset processing and simulation  
+- **Nexora** — Local AI assistant with structured reasoning workflows  
+- **3D-Models-Nucleus** — Real-time Cochlear 3D models built in Three.js  
+- **Portfolio Profile** — Minimal, clean personal interface  
+- **Meteor & Snake Games** — Lightweight JS games demonstrating logic design  
+- **Teradata Simulation** — Python dataset processing simulation  
 
 ---
 
 ## Currently Learning
 
-- agent-based LLM systems and autonomous workflows  
-- faster local inference and model optimization  
-- advanced TypeScript patterns and architecture  
-- modular backend design and service-based structures  
-- better Three.js / WebGL rendering techniques  
+- agentic LLM systems  
+- faster local inference techniques  
+- advanced TypeScript patterns  
+- backend modular/service-based architecture  
+- Three.js / WebGL optimization  
 
 ---
 
 ## Roadmap 2025
 
-- build a fully modular personal AI assistant  
-- develop a backend layer powered by LLM reasoning  
-- create more advanced 3D visualization tools  
-- expand my full-stack portfolio with production-ready applications  
-- release small open-source AI + web utilities  
+- build a modular personal AI assistant  
+- develop an LLM-driven backend engine  
+- expand 3D visualization projects  
+- release polished open-source utilities  
+- extend full-stack project portfolio  
 
 ---
 
@@ -137,6 +134,6 @@ Pinned repositories on my profile represent my current direction and interests, 
   roadmap_2025     : in progress
 
 > focus
-  clean codebase
-  scalable systems
+  clarity
+  stability
   practical experimentation
