@@ -1,29 +1,26 @@
-<!-- Typing effect header (corrected + optimized text, no cut words) -->
+<!-- Typing effect header using TypingSVG (no cut words) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Currently+building+LLM-powered+tools+and+intelligent+web+systems;Creating+clean%2C+modern+and+scalable+applications" alt="Typing SVG">
-</p>
-
-
-<!-- Subtle AI waveform -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/arminedev-assets/waveforms/main/ai-wave-dark.gif" width="500">
+  <img
+    src="https://typingsvg.vercel.app/api/svg?text=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+and+intelligent+web+systems;Creating+clean,+modern+and+scalable+applications&font=Fira+Code&color=%23F0F6FC&backgroundColor=%230D1117&width=900&height=120&center=true&vCenter=true&cursorStyle=straight&repeat=true"
+    alt="Typing introduction"
+  />
 </p>
 
 ---
 
 ## About Me
 
-My name is Armin. I’m a developer focused on **local AI**, **LLM workflows**, and **full-stack web development**.  
-I enjoy building systems that are clean, organized, and reliable, while exploring how AI can improve everyday development workflows.
+My name is Armin. I am a developer focused on local AI, LLM workflows and full-stack web development.  
+I like building systems that are clean, organized and reliable, and exploring how AI can make everyday development more productive.
 
-I work with a combination of backend logic, database systems, modern frontend technology, and interactive 3D web components.  
-My goal is to write code that is practical, maintainable, and easy to understand.
+I work across backend logic, databases, modern frontend stacks and interactive 3D web components.  
+My goal is to write code that is practical, maintainable and easy to understand for other developers.
 
 ---
 
 ## Contact
 
-If you want to reach out or collaborate, feel free to contact me:
+If you want to reach out or collaborate:
 
 **Email:**  
 `armin.lisic000@gmail.com`
@@ -48,20 +45,19 @@ If you want to reach out or collaborate, feel free to contact me:
 ### AI & Advanced Web
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
 ![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![LLM](https://img.shields.io/badge/LLM_Development-0D1117?style=for-the-badge&logoColor=FFFFFF)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logoColor=FFFFFF)
+![LLM](https://img.shields.io/badge/LLM_Development-0D1117?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge)
 
 ---
 
 ## Local AI & LLM Development
 
-I create and experiment with local AI systems using **Ollama**, **embeddings**, and structured LLM pipelines.  
-My focus is on building AI tools that run efficiently on local hardware without cloud dependency.
+I work with local AI setups using Ollama, embeddings and structured LLM pipelines.  
+I am interested in building AI tools that run efficiently on local hardware, without relying on external cloud services.
 
-This includes:
+What I experiment with:
 - custom LLM assistants  
-- prompt-driven workflows  
-- reasoning chains  
+- prompt-driven workflows and chains  
 - local inference optimization  
 - API integrations for AI-augmented applications  
 
@@ -69,47 +65,46 @@ This includes:
 
 ## Full-Stack & Web Engineering
 
-I build front-to-back applications with clean structure and long-term maintainability in mind.
+I build front-to-back applications with a focus on structure and long-term maintainability.
 
-Key areas I work on:
-- Backend logic, API structure, routing  
-- Database-driven systems (MySQL, HeidiSQL)  
-- Modern UI/UX with focus on clarity  
+Key areas:
+- backend logic, routing and API design  
+- database-driven systems (MySQL, HeidiSQL)  
+- modern, clear UI/UX  
 - Three.js real-time 3D components  
-- High-performance animation pipelines  
+- high-performance animation pipelines (GSAP)  
 - AI-enhanced features inside web apps  
 
 ---
 
 ## Featured Projects  
-*(Links namjerno izostavljeni — poslodavci ih mogu vidjeti direktno u tvojim pinned repos.)*
+*(Links su namjerno izostavljeni – sve se vidi kroz pinned repozitorije na profilu.)*
 
-- **Nexora** — Local AI Assistant with structured LLM workflows  
-- **3D-Models-Nucleus** — Real-time Three.js Cochlear 3D viewer  
-- **Portfolio Profile** — Clean and elegant personal interface  
-- **Meteor Game / Snake Game** — Browser-based JS logic games  
-- **Teradata Simulation** — Python dataset processing simulation  
+- **Nexora** — local AI assistant based on structured LLM workflows  
+- **3D-Models-Nucleus** — real-time Three.js viewer for Cochlear 3D models  
+- **Portfolio Profile** — clean, dark-themed personal interface  
+- **Meteor Game / Snake Game** — small JS browser games focused on logic  
+- **Teradata Simulation** — Python dataset processing and simulation  
 
 ---
 
 ## Currently Learning
 
-- Agent-based LLM systems  
-- Autonomous AI workflows  
-- Faster local inference optimization  
-- Advanced TypeScript patterns  
-- Three.js / WebGL rendering improvements  
-- Scalable full-stack architecture  
+- agent-based LLM systems and autonomous workflows  
+- faster local inference and model optimization  
+- advanced TypeScript patterns and architecture  
+- modular backend design and services  
+- better Three.js / WebGL rendering techniques  
 
 ---
 
 ## Roadmap 2025
 
-- Build a fully modular personal AI assistant  
-- Develop a backend powered by LLM reasoning  
-- Create advanced 3D visualization tools  
-- Expand my full-stack portfolio with production-ready apps  
-- Contribute open-source AI + web utilities  
+- build a fully modular personal AI assistant  
+- develop a backend layer powered by LLM reasoning  
+- create more advanced 3D visualization tools  
+- expand my full-stack portfolio with production-ready apps  
+- release small open-source AI + web utilities  
 
 ---
 
