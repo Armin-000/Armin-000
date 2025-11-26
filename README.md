@@ -1,16 +1,32 @@
-## Hi there 👋
+### Hi, I'm Armin
 
-<!--
-**Armin-000/Armin-000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am focused on modern IT development with an interest in local AI systems, full-stack web development, and advanced interactive web technologies.
 
-Here are some ideas to get you started:
+### Local AI and LLM Development
+- Learning and building local AI solutions using LLMs
+- Working with Ollama, API integration methods, embeddings, and model optimization
+- Exploring prompt engineering, local inference setups, and custom AI tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Full-Stack Web Development
+- Developing complete frontend and backend applications
+- Technologies and tools I work with:
+  - JavaScript, TypeScript (TSX)
+  - HTML, CSS, SCSS
+  - PHP
+  - Node.js and REST API development
+  - Three.js for 3D web experiences
+  - MySQL and HeidiSQL for database design and management
+
+### Areas of Work
+- Local AI tools and personal AI assistants
+- Full-stack web platforms and dashboards
+- Database-driven backend systems
+- 3D and interactive web components
+- Modern UI/UX with animations and advanced effects
+
+### Approach
+I aim for clean structure, modular development, and continual learning.  
+My work is focused on solving real technical problems and improving my skill set through practical projects.
+
+
+Contact: armin.lisic000@gmail.com
