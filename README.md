@@ -18,9 +18,13 @@ I enjoy exploring how AI can enhance and streamline real development workflows.
 
 ---
 
-<p align="center">
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=Armin-000&skills=JavaScript,TypeScript,PHP,HTML5,CSS3,Node.js,MySQL,Three.js,GSAP,LLM%20Development" />
-</p>
+JavaScript      ████████████░░░░░  80%
+TypeScript      ██████████░░░░░░░  70%
+PHP             ███████████░░░░░░  75%
+Three.js        █████████░░░░░░░░  60%
+Node.js         ██████████░░░░░░░  65%
+LLM/AI          ████████████░░░░░  80%
+
 
 
 ## Contact
