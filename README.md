@@ -1,10 +1,11 @@
 <!-- Typing effect header using TypingSVG (no cut words) -->
 <p align="center">
   <img
-    src="https://typingsvg.vercel.app/api/svg?text=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+and+intelligent+web+systems;Creating+clean,+modern+and+scalable+applications&font=Fira+Code&color=%23F0F6FC&backgroundColor=%230D1117&width=900&height=120&center=true&vCenter=true&cursorStyle=straight&repeat=true"
-    alt="Typing introduction"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1200&pause=700&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+for+the+web;Creating+clean%2C+modern+and+scalable+applications"
+    alt="Typing SVG"
   />
 </p>
+
 
 ---
 
