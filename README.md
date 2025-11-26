@@ -22,7 +22,7 @@ My goal is to write code that is practical, maintainable and easy to understand 
 ## Contact
 
 For collaboration or questions:  
-`armin.lisic000@gmail.com`
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armin.lisic000@gmail.com)
 
 **Instagram:**  
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arminlisic/)
