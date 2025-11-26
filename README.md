@@ -1,25 +1,28 @@
-<!-- Typing effect header -->
+<!-- Typing effect header (corrected + optimized text, no cut words) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F0F6FC&center=true&vCenter=true&width=700&lines=Armin+-+Local+AI+and+Full-Stack+Engineering;Building+LLM-powered+tools+and+advanced+web+experiences;Focused+on+clean+architecture+and+modern+tech" alt="Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Working+on+LLM-powered+tools+and+intelligent+web+systems;Building+clean%2C+modern+and+scalable+applications" alt="Typing SVG">
 </p>
 
-<!-- Animated subtle waveform -->
+<!-- Subtle AI waveform -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/arminedev-assets/waveforms/main/ai-wave-dark.gif" width="500">
 </p>
 
 ---
 
-## Overview
+## About Me
 
-I focus on modern IT development with a strong interest in local AI systems, LLM workflows, full-stack engineering, and advanced interactive web technologies.  
-My work combines AI experimentation, backend logic, and clean, dark-themed frontend interfaces.
+My name is Armin. I’m a developer focused on **local AI**, **LLM workflows**, and **full-stack web development**.  
+I enjoy building systems that are clean, organized, and reliable, while exploring how AI can improve everyday development workflows.
+
+I work with a combination of backend logic, database systems, modern frontend technology, and interactive 3D web components.  
+My goal is to write code that is practical, maintainable, and easy to understand.
 
 ---
 
-## Contact (Quick Access)
+## Contact
 
-If you'd like to connect regarding my work, projects, or collaboration:
+If you want to reach out or collaborate, feel free to contact me:
 
 **Email:**  
 `armin.lisic000@gmail.com`
@@ -41,63 +44,71 @@ If you'd like to connect regarding my work, projects, or collaboration:
 ![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0D1117?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
 
-### Advanced Web & AI
+### AI & Advanced Web
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
 ![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![LLM](https://img.shields.io/badge/LLM_Development-0D1117?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Development-0D1117?style=for-the-badge&logoColor=FFFFFF)
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logoColor=FFFFFF)
 
 ---
 
 ## Local AI & LLM Development
 
-I explore and build local AI solutions using LLM models, Ollama, embeddings, and API-driven workflows.  
-My work includes designing custom AI assistants, optimizing inference setups, and experimenting with structured prompt pipelines.
+I create and experiment with local AI systems using **Ollama**, **embeddings**, and structured LLM pipelines.  
+My focus is on building AI tools that run efficiently on local hardware without cloud dependency.
+
+This includes:
+- custom LLM assistants  
+- prompt-driven workflows  
+- reasoning chains  
+- local inference optimization  
+- API integrations for AI-augmented applications  
 
 ---
 
 ## Full-Stack & Web Engineering
 
-I develop complete frontend and backend systems with a focus on clean architecture, modular design, and reliable performance.
+I build front-to-back applications with clean structure and long-term maintainability in mind.
 
-**Core focus areas:**
-- Local AI integrations  
-- Backend logic & API architecture  
-- Database-driven applications  
-- Three.js interactive 3D interfaces  
-- UI/UX with high-performance animations  
-- AI-enhanced web functionality  
+Key areas I work on:
+- Backend logic, API structure, routing  
+- Database-driven systems (MySQL, HeidiSQL)  
+- Modern UI/UX with focus on clarity  
+- Three.js real-time 3D components  
+- High-performance animation pipelines  
+- AI-enhanced features inside web apps  
 
 ---
 
 ## Featured Projects  
-*(Links intentionally not included — projects visible on profile overview)*
+*(Links namjerno izostavljeni — poslodavci ih mogu vidjeti direktno u tvojim pinned repos.)*
 
-- **Nexora** — Local AI assistant built with structured LLM workflows.  
-- **3D-Models-Nucleus** — Three.js real-time 3D viewer with lighting & camera controls.  
-- **Portfolio Profile** — Clean personal interface with dark styling and animations.  
-- **Meteor Game / Snake Game** — Lightweight JS logic-based games.  
-- **Teradata Simulation** — Python dataset flow simulation.  
+- **Nexora** — Local AI Assistant with structured LLM workflows  
+- **3D-Models-Nucleus** — Real-time Three.js Cochlear 3D viewer  
+- **Portfolio Profile** — Clean and elegant personal interface  
+- **Meteor Game / Snake Game** — Browser-based JS logic games  
+- **Teradata Simulation** — Python dataset processing simulation  
 
 ---
 
 ## Currently Learning
 
-- Agentic LLM workflows and autonomous AI  
-- Model optimization for fast local inference  
-- Advanced TypeScript patterns & structure  
-- Modular backend architecture with services  
-- Efficient Three.js / WebGL rendering pipelines  
+- Agent-based LLM systems  
+- Autonomous AI workflows  
+- Faster local inference optimization  
+- Advanced TypeScript patterns  
+- Three.js / WebGL rendering improvements  
+- Scalable full-stack architecture  
 
 ---
 
 ## Roadmap 2025
 
-- Build a modular personal AI assistant  
-- Develop LLM-powered backend API services  
-- Expand 3D visualization systems  
-- Create more full-stack production projects  
-- Release open-source AI + Web tools  
+- Build a fully modular personal AI assistant  
+- Develop a backend powered by LLM reasoning  
+- Create advanced 3D visualization tools  
+- Expand my full-stack portfolio with production-ready apps  
+- Contribute open-source AI + web utilities  
 
 ---
 
@@ -106,12 +117,12 @@ I develop complete frontend and backend systems with a focus on clean architectu
 ```text
 > status
   local_ai         : active
-  llm_workflows    : in progress
+  llm_workflows    : evolving
   full_stack       : building
   three_js_scenes  : rendering
-  roadmap_2025     : executing
+  roadmap_2025     : in progress
 
 > focus
-  clean architecture
-  reliable systems
+  clean codebase
+  scalable systems
   practical experimentation
