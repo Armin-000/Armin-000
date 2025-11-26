@@ -18,12 +18,15 @@ I enjoy exploring how AI can enhance and streamline real development workflows.
 
 ---
 
-JavaScript      ████████████░░░░░  80%
-TypeScript      ██████████░░░░░░░  70%
-PHP             ███████████░░░░░░  75%
-Three.js        █████████░░░░░░░░  60%
-Node.js         ██████████░░░░░░░  65%
-LLM/AI          ████████████░░░░░  80%
+## Skill Matrix (AI + Web)
+
+AI / LLMs        — ████████████  85%
+Frontend (JS)    — ███████████░  78%
+Backend (PHP/Node) — ██████████░  72%
+3D / Three.js    — ████████░░░░  60%
+Databases        — █████████░░░  68%
+Architecture     — ██████████░░  70%
+
 
 
 
