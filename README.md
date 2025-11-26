@@ -25,6 +25,11 @@ For collaboration, questions, or networking:
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armin.lisic000@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arminlisic/)
 
+**Email:**  
+`armin.lisic000@gmail.com`
+
+[![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arminlisic/)
+
 ---
 
 ## Tech Stack
