@@ -26,6 +26,9 @@ If you want to reach out or collaborate:
 **Email:**  
 `armin.lisic000@gmail.com`
 
+**Instagram:**  
+[![Instagram][(https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/TVOJ_INSTAGRAM)](https://www.instagram.com/arminlisic/)
+
 ---
 
 ## Tech Stack
