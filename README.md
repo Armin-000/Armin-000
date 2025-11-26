@@ -1,32 +1,29 @@
-<!-- Typing effect header using TypingSVG (no cut words) -->
+<!-- Typing effect header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1200&pause=700&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+for+the+web;Creating+clean%2C+modern+and+scalable+applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=1700&pause=950&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+for+the+web;Creating+clean%2C+modern+and+scalable+applications"
     alt="Typing SVG"
   />
 </p>
-
 
 ---
 
 ## About Me
 
-My name is Armin. I am a developer focused on local AI, LLM workflows and full-stack web development.  
-I like building systems that are clean, organized and reliable, and exploring how AI can make everyday development more productive.
+My name is Armin. I am a developer focused on local AI, LLM workflows, and full-stack web development.  
+I enjoy designing systems that are clean, well-structured, and reliable, and I am especially interested in how AI can improve real development workflows.
 
-I work across backend logic, databases, modern frontend stacks and interactive 3D web components.  
-My goal is to write code that is practical, maintainable and easy to understand for other developers.
+I work across backend logic, databases, modern frontend stacks, and interactive 3D web components.  
+My goal is to ship code that is practical, maintainable, and understandable for other developers – not just “works once”.
 
 ---
 
 ## Contact
 
-For collaboration or questions:  
+For collaboration, questions, or networking:
+
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white)](mailto:armin.lisic000@gmail.com)
-
-**Instagram:**  
 [![Instagram](https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arminlisic/)
-
 
 ---
 
@@ -55,10 +52,10 @@ For collaboration or questions:
 
 ## Local AI & LLM Development
 
-I work with local AI setups using Ollama, embeddings and structured LLM pipelines.  
-I am interested in building AI tools that run efficiently on local hardware, without relying on external cloud services.
+I work with local AI setups using Ollama, embeddings, and structured LLM pipelines.  
+The focus is on running AI tools efficiently on local hardware instead of depending on external cloud services.
 
-What I experiment with:
+I experiment with:
 - custom LLM assistants  
 - prompt-driven workflows and chains  
 - local inference optimization  
@@ -68,25 +65,26 @@ What I experiment with:
 
 ## Full-Stack & Web Engineering
 
-I build front-to-back applications with a focus on structure and long-term maintainability.
+I build end-to-end applications with an emphasis on structure, clarity, and long-term maintainability.
 
 Key areas:
-- backend logic, routing and API design  
+- backend logic, routing, and API design  
 - database-driven systems (MySQL, HeidiSQL)  
 - modern, clear UI/UX  
 - Three.js real-time 3D components  
 - high-performance animation pipelines (GSAP)  
-- AI-enhanced features inside web apps  
+- AI-enhanced features inside web applications  
 
 ---
 
 ## Featured Projects  
-*(Links su namjerno izostavljeni – sve se vidi kroz pinned repozitorije na profilu.)*
+
+Pinned repositories on my profile represent my current direction and interests, including:
 
 - **Nexora** — local AI assistant based on structured LLM workflows  
 - **3D-Models-Nucleus** — real-time Three.js viewer for Cochlear 3D models  
 - **Portfolio Profile** — clean, dark-themed personal interface  
-- **Meteor Game / Snake Game** — small JS browser games focused on logic  
+- **Meteor Game / Snake Game** — small JS browser games focused on core logic  
 - **Teradata Simulation** — Python dataset processing and simulation  
 
 ---
@@ -96,7 +94,7 @@ Key areas:
 - agent-based LLM systems and autonomous workflows  
 - faster local inference and model optimization  
 - advanced TypeScript patterns and architecture  
-- modular backend design and services  
+- modular backend design and service-based structures  
 - better Three.js / WebGL rendering techniques  
 
 ---
@@ -106,7 +104,7 @@ Key areas:
 - build a fully modular personal AI assistant  
 - develop a backend layer powered by LLM reasoning  
 - create more advanced 3D visualization tools  
-- expand my full-stack portfolio with production-ready apps  
+- expand my full-stack portfolio with production-ready applications  
 - release small open-source AI + web utilities  
 
 ---
