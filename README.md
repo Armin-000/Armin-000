@@ -1,50 +1,65 @@
 <!-- Typing Header -->
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1100&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+Local+AI+and+Full-Stack+Developer;Building+LLM-powered+tools+for+the+web;Creating+clean%2C+modern+and+scalable+applications"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2000&pause=1100&color=F0F6FC&center=true&vCenter=true&width=720&lines=Armin+-+AI-assisted+%26+Junior+Developer;Always+learning%2C+building%2C+improving;Local+AI+enthusiast+and+full-stack+learner"
     alt="Typing SVG"
   />
 </p>
 
 ---
 
-## About Me
+# 👨‍💻 About Me
 
-I'm Armin — a developer focused on **local AI**, **LLM workflows**, and **full-stack engineering**.  
-My work blends backend logic, database systems, modern frontend development, and interactive 3D web technologies.
+Hi! I'm **Armin**, an aspiring **junior full-stack developer** who uses **local AI tools** to learn faster, write cleaner code, and build real projects with confidence.
 
-I care about **clean structure**, **maintainable code**, and **practical solutions**.  
-I enjoy exploring how AI can enhance and streamline real development workflows.
+I’m currently somewhere **between beginner and junior**, actively improving my skills in JavaScript, backend logic, databases, and modern frontend workflows.
 
----
-
-## Contact
-
-<p align="center">
-  <a href="mailto:armin.lisic000@gmail.com">
-    <img 
-      src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="Email"
-    />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/arminlisic/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" 
-      alt="Instagram"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <sub><code>armin.lisic000@gmail.com</code></sub>
-</p>
+I focus on understanding *why* code works — not just making things run.
 
 ---
 
-## Tech Stack
+# 🎓 Education
 
-### Core Languages & Frontend
+🎓 **Bachelor’s Degree (Preddiplomski)** — IT Informatics  
+📚 **Master’s Student (Diplomski)** — Veleučilište u Rijeci  
+🔍 Field: software engineering, AI-assisted development, full-stack technologies
+
+---
+
+# 💡 What I Do
+
+I’m learning and working with:
+
+- clear and maintainable full-stack application structure  
+- modern frontend development  
+- backend architecture (Node.js, PHP)  
+- databases (MySQL, HeidiSQL)  
+- 3D web technologies (Three.js)  
+- animation and UX (GSAP)  
+- **local AI models** (Ollama + LLM workflows) to enhance coding  
+
+I build real-world mini-projects to strengthen my foundations and learn through practice.
+
+---
+
+# 🤖 AI-Assisted Development
+
+I use **local LLMs** to:
+
+- understand and refactor code  
+- debug and solve structural issues  
+- generate patterns and boilerplate  
+- analyze performance  
+- explore more advanced logic and architecture  
+- learn faster and more deeply  
+
+AI is not a shortcut — it’s a teaching tool.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages & Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26)
@@ -58,82 +73,83 @@ I enjoy exploring how AI can enhance and streamline real development workflows.
 ![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0D1117?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
 
 ### AI & Advanced Web
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM_Workflows-0D1117?style=for-the-badge)
 ![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=FFFFFF)
 ![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=88CE02)
-![LLM](https://img.shields.io/badge/LLM_Development-0D1117?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge)
 
 ---
 
-## Local AI & LLM Development
+# 🚀 Featured Projects
 
-I work with **local inference**, **embeddings**, and **structured LLM pipelines** to build tools that perform efficiently without relying on cloud infrastructure.
+### 📦 Nexora  
+Local AI assistant with modular workflows
 
-Focus areas include:
-- custom LLM assistants  
-- prompt/chain workflows  
-- local model optimization  
-- API-driven AI integrations  
+### 🔊 3D-Models-Nucleus  
+Real-time Cochlear implant models rendered in Three.js
 
----
+### 🎮 Meteor & Snake Games  
+Small JavaScript games — logic practice and UI experiments
 
-## Full-Stack & Web Engineering
+### 🌐 Portfolio Interface  
+A clean, minimal personal site focused on structure
 
-I build end-to-end applications with emphasis on clarity and scalable structure.
-
-Key areas:
-- backend logic & API architecture  
-- database-driven systems (MySQL, HeidiSQL)  
-- frontend engineering & UI/UX design  
-- 3D interfaces (Three.js)  
-- high-performance animation (GSAP)  
-- AI-augmented web features  
+### 📊 Teradata Simulation  
+Python processing simulation for educational purposes
 
 ---
 
-## Featured Projects
+# 🌱 Currently Learning
 
-My most relevant work is showcased in pinned repositories, including:
-
-- **Nexora** — Local AI assistant with structured reasoning workflows  
-- **3D-Models-Nucleus** — Real-time Cochlear 3D models built in Three.js  
-- **Portfolio Profile** — Minimal, clean personal interface  
-- **Meteor & Snake Games** — Lightweight JS games demonstrating logic design  
-- **Teradata Simulation** — Python dataset processing simulation  
-
----
-
-## Currently Learning
-
-- agentic LLM systems  
-- faster local inference techniques  
-- advanced TypeScript patterns  
-- backend modular/service-based architecture  
-- Three.js / WebGL optimization  
+- deeper understanding of JS/TS
+- backend modular architecture
+- building full-stack systems from scratch
+- Three.js optimization & rendering pipelines
+- integrating AI into practical web workflows
+- clean, scalable project organization
 
 ---
 
-## Roadmap 2025
+# 🧭 Roadmap 2025
 
+- achieve strong, confident junior-level skills  
 - build a modular personal AI assistant  
 - develop an LLM-driven backend engine  
 - expand 3D visualization projects  
-- release polished open-source utilities  
-- extend full-stack project portfolio  
+- release polished open-source tools  
+- focus on clean structure & professional quality  
 
 ---
 
-## Console Snapshot
+# 📬 Contact
+
+<p align="center">
+  <a href="mailto:armin.lisic000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/arminlisic/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+<p align="center"><sub><code>armin.lisic000@gmail.com</code></sub></p>
+
+---
+
+# 💻 Console Snapshot
 
 ```text
 > status
-  local_ai         : active
-  llm_workflows    : evolving
-  full_stack       : building
-  three_js_scenes  : rendering
-  roadmap_2025     : in progress
+  skill_level       : beginner ➜ junior (in progress)
+  local_ai          : active
+  learning_curve    : steep
+  full_stack        : developing
+  three_js          : rendering
+  roadmap_2025      : in motion
 
 > focus
-  clarity
-  stability
-  practical experimentation
+  fundamentals
+  clean code
+  practical building
+  continuous learning
