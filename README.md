@@ -8,77 +8,131 @@
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/30/ffffff/user.png" width="22"/> About Me
+# 👨‍💻 About Me
 
-Hi! I'm **Armin**, an aspiring **junior full-stack developer**…
+Hi! I'm **Armin**, an aspiring **junior full-stack developer** who uses **local AI tools** to learn faster, write cleaner code, and build real projects with confidence.
 
----
+I’m currently somewhere **between beginner and junior**, actively improving my skills in JavaScript, backend logic, databases, and modern frontend workflows.
 
-# <img src="https://img.icons8.com/ios-filled/26/ffffff/graduation-cap.png" width="22"/> Education
-
-🎓 **Bachelor’s Degree** – IT Informatics  
-📚 **Master’s Student** – Veleučilište u Rijeci  
+I focus on understanding *why* code works — not just making things run.
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/idea.png" width="22"/> What I Do
+# 🎓 Education
 
-I’m learning and working with…
-
----
-
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/artificial-intelligence.png" width="22"/> AI-Assisted Development
-
-I use **local LLMs** to…
+🎓 **Bachelor’s Degree (Preddiplomski)** — IT Informatics  
+📚 **Master’s Student (Diplomski)** — Veleučilište u Rijeci  
+🔍 Field: software engineering, AI-assisted development, full-stack technologies
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/services.png" width="22"/> Tech Stack
+# 💡 What I Do
 
-### Languages & Frontend  
-(… tvoji badges …)
+I’m learning and working with:
+
+- clear and maintainable full-stack application structure  
+- modern frontend development  
+- backend architecture (Node.js, PHP)  
+- databases (MySQL, HeidiSQL)  
+- 3D web technologies (Three.js)  
+- animation and UX (GSAP)  
+- **local AI models** (Ollama + LLM workflows) to enhance coding  
+
+I build real-world mini-projects to strengthen my foundations and learn through practice.
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/rocket.png" width="22"/> Featured Projects
+# 🤖 AI-Assisted Development
+
+I use **local LLMs** to:
+
+- understand and refactor code  
+- debug and solve structural issues  
+- generate patterns and boilerplate  
+- analyze performance  
+- explore more advanced logic and architecture  
+- learn faster and more deeply  
+
+AI is not a shortcut — it’s a teaching tool.
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages & Frontend
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=white)
+![SCSS](https://img.shields.io/badge/SCSS-0D1117?style=for-the-badge&logo=sass&logoColor=white)
+
+### Backend & Databases
+![PHP](https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=white)
+![HeidiSQL](https://img.shields.io/badge/HeidiSQL-0D1117?style=for-the-badge&logo=databricks&logoColor=white)
+
+### AI & Advanced Web
+![Ollama](https://img.shields.io/badge/Ollama-0D1117?style=for-the-badge&logoColor=white)
+![LLM](https://img.shields.io/badge/LLM_Workflows-0D1117?style=for-the-badge&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-0D1117?style=for-the-badge&logo=threedotjs&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-0D1117?style=for-the-badge&logo=greensock&logoColor=white)
+
+---
+
+# 🚀 Featured Projects
 
 ### 📦 Nexora  
-Local AI assistant…
+Local AI assistant with modular workflows
 
 ### 🔊 3D-Models-Nucleus  
-Three.js cochlear visualizer…
+Real-time Cochlear implant models rendered in Three.js
+
+### 🎮 Meteor & Snake Games  
+Small JavaScript games — logic practice and UI experiments
+
+### 🌐 Portfolio Interface  
+A clean, minimal personal site focused on structure
+
+### 📊 Teradata Simulation  
+Python processing simulation for educational purposes
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/plant-under-sun.png" width="22"/> Currently Learning
+# 🌱 Currently Learning
 
-- deeper JS/TS  
-- backend architecture  
-- Three.js rendering  
-- modular systems  
-
----
-
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/map.png" width="22"/> Roadmap 2025
-
-- build modular AI  
-- improve 3D rendering  
-- release open-source tools  
+- deeper understanding of JS/TS  
+- backend modular architecture  
+- building full-stack systems from scratch  
+- Three.js optimization & rendering pipelines  
+- integrating AI into practical web workflows  
+- clean, scalable project organization  
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/secured-letter.png" width="22"/> Contact
+# 🧭 Roadmap 2025
+
+- achieve strong, confident junior-level skills  
+- build a modular personal AI assistant  
+- develop an LLM-driven backend engine  
+- expand 3D visualization projects  
+- release polished open-source tools  
+- focus on clean structure & professional quality  
+
+---
+
+# 📬 Contact
 
 <p align="center">
   <a href="mailto:armin.lisic000@gmail.com">
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://armin-lisic-portfolio.netlify.app/">
+  <a href="https://armin-lisic-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/arminlisic/">
+  <a href="https://www.instagram.com/arminlisic/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -87,7 +141,7 @@ Three.js cochlear visualizer…
 
 ---
 
-# <img src="https://img.icons8.com/ios-filled/28/ffffff/console.png" width="22"/> Console Snapshot
+# 💻 Console Snapshot
 
 ```text
 > status
