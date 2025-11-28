@@ -128,7 +128,7 @@ Python processing simulation for educational purposes
     <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://your-portfolio-url-here.com" target="_blank">
+  <a href="[https://your-portfolio-url-here.com](https://armin-lisic-portfolio.netlify.app/)" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   &nbsp;&nbsp;
