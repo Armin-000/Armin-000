@@ -1,4 +1,3 @@
-
 <div align="center">
 
 ```text
@@ -8,27 +7,28 @@
  / ___ \| |  | | | | | | | | | |
 /_/   \_\_|  |_| |_| |_|_|_| |_|
 
-````
+```
 
-**Armin Lišić**
-`full-stack developer in progress` • `systems mindset` • `AI-assisted builder`
+**ARMIN LIŠIĆ**
+`full-stack developer` • `systems mindset` • `AI-assisted development`
 
 </div>
 
 ---
 
 ```text
-[    0.021341] Initializing profile environment...
-[    0.104882] Loading developer metadata...
-[    0.187403] Resolving current role...
-[    0.263551] Role detected: junior full-stack developer
-[    0.341904] Loading stack modules: JavaScript, TypeScript, Node.js, PHP, MySQL
-[    0.438201] Loading rendering module: Three.js
-[    0.517228] Loading AI workflow module: Ollama / local LLMs
-[    0.603992] Verifying mindset...
-[    0.690114] Mindset confirmed: structure > speed
-[    0.771203] Profile ready.
+[ boot ] initializing developer profile...
+[ ok   ] loading core modules
+[ ok   ] javascript / typescript
+[ ok   ] backend systems
+[ ok   ] database layer
+[ ok   ] rendering engine (three.js)
+[ ok   ] AI workflows (local LLM)
+[ ok   ] mindset validation → PASSED
+[ done ] system ready
 ```
+
+---
 
 # armin@dev:~$
 
@@ -37,13 +37,13 @@ $ whoami
 Armin Lišić
 
 $ role
-Junior full-stack developer in progress
+Junior full-stack developer (progressing toward professional level)
 
 $ focus
-Building structured, maintainable, and real-world applications
+Building structured, scalable and maintainable systems
 
 $ philosophy
-build -> break -> understand -> improve
+build -> test -> break -> understand -> improve
 ```
 
 ---
@@ -51,14 +51,11 @@ build -> break -> understand -> improve
 ## system.profile
 
 ```bash
-$ system.profile
-
 name        : Armin Lišić
 location    : Croatia
-education   : IT Informatics / graduate studies in progress
-status      : actively building
-direction   : junior -> confident developer
+education   : IT Informatics (BSc) / graduate studies in progress
 approach    : engineering-first
+status      : actively building real-world projects
 ```
 
 ---
@@ -66,16 +63,14 @@ approach    : engineering-first
 ## skill.matrix
 
 ```bash
-$ skill.matrix
-
-JavaScript        [#########.] 85%
-TypeScript        [########..] 80%
-Frontend          [########..] 80%
-Backend           [######....] 60%
-Databases         [#######...] 70%
-Three.js          [#####.....] 50%
-AI Workflows      [######....] 60%
-Architecture      [######....] 60%
+JavaScript        █████████░ 85%
+TypeScript        ████████░░ 80%
+Frontend          ████████░░ 80%
+Backend           ██████░░░░ 60%
+Databases         ███████░░░ 70%
+Three.js          █████░░░░░ 50%
+AI Workflows      ██████░░░░ 60%
+Architecture      ██████░░░░ 60%
 ```
 
 ---
@@ -83,29 +78,25 @@ Architecture      [######....] 60%
 ## tech.stack
 
 ```bash
-$ tech.stack
-
-frontend   -> JavaScript, TypeScript, HTML, CSS, SCSS
-backend    -> Node.js, PHP
-database   -> MySQL, HeidiSQL
-graphics   -> Three.js, GSAP
-ai         -> Ollama, local LLM workflows
-tools      -> Git, GitHub, VS Code
+frontend   → JavaScript · TypeScript · HTML · CSS · SCSS
+backend    → Node.js · PHP
+database   → MySQL · HeidiSQL
+graphics   → Three.js · GSAP
+ai         → Ollama · local LLM workflows
+tools      → Git · GitHub · VS Code
 ```
 
 ---
 
-## current.objectives
+## engineering.approach
 
 ```bash
-$ current.objectives
-
--> strengthen JavaScript / TypeScript depth
--> improve backend modular architecture
--> build more complete full-stack applications
--> optimize Three.js rendering and interaction flows
--> integrate AI into practical workflows
--> write cleaner, more maintainable code
+1. understand the problem deeply
+2. break it into smaller systems
+3. implement a working solution
+4. refactor for structure and clarity
+5. optimize and simplify
+6. repeat until stable
 ```
 
 ---
@@ -114,138 +105,77 @@ $ current.objectives
 
 ```bash
 $ ls ~/projects
-
-nexora
-3d-models-nucleus
-javascript-games
-portfolio-interface
-teradata-simulation
 ```
 
+**nexora**
+→ local-first AI assistant with modular architecture
+
+**3d-models-nucleus**
+→ real-time 3D rendering and interaction (Three.js)
+
+**javascript-games**
+→ logic-driven UI and interaction experiments
+
+**portfolio-interface**
+→ minimal, structured personal interface
+
+**teradata-simulation**
+→ data processing simulation (educational)
+
+---
+
 <details>
-<summary><code>cat ~/projects/nexora/README.md</code></summary>
+<summary><strong>inspect project: nexora</strong></summary>
 
 ```text
-Nexora
-------
-Local-first AI assistant built around modular workflows.
-Focused on structure, practical use, and extensibility.
-```
-
-</details>
-
-<details>
-<summary><code>cat ~/projects/3d-models-nucleus/README.md</code></summary>
-
-```text
-3D Models - Nucleus
--------------------
-Three.js-based real-time rendering project focused on
-interactive 3D presentation and structured scene logic.
+Nexora is a modular AI assistant built with a local-first approach.
+Focus is on system structure, extensibility, and real-world usability.
 ```
 
 </details>
 
 <details>
-<summary><code>cat ~/projects/javascript-games/README.md</code></summary>
+<summary><strong>inspect project: 3d-models-nucleus</strong></summary>
 
 ```text
-JavaScript Games
-----------------
-Small logic-driven projects used to improve interaction design,
-problem-solving, and front-end fundamentals.
-```
-
-</details>
-
-<details>
-<summary><code>cat ~/projects/portfolio-interface/README.md</code></summary>
-
-```text
-Portfolio Interface
--------------------
-Minimal personal interface focused on layout structure,
-clarity, and clean presentation.
-```
-
-</details>
-
-<details>
-<summary><code>cat ~/projects/teradata-simulation/README.md</code></summary>
-
-```text
-Teradata Simulation
--------------------
-Educational simulation project related to structured data
-processing and database-oriented workflows.
+Three.js project focused on rendering pipelines, interaction,
+and structured scene management for 3D applications.
 ```
 
 </details>
 
 ---
 
-## interactive.session
-
-<details>
-<summary><code>run developer --inspect mindset</code></summary>
+## current.focus
 
 ```bash
-$ developer --inspect mindset
+→ deeper JavaScript / TypeScript understanding
+→ backend architecture and modular systems
+→ Three.js rendering optimization
+→ practical AI integration into development workflows
+→ writing clean, maintainable code
+```
 
+---
+
+## roadmap
+
+```bash
+foundation           ██████████████░░░░ 70%
+systems_thinking     ██████░░░░░░░░░░░░ 30%
+production_projects  ████░░░░░░░░░░░░░░ 20%
+```
+
+---
+
+## development.principles
+
+```bash
 clarity        > complexity
 structure      > speed
-consistency    > intensity
+consistency    > motivation
 understanding  > copying
-execution      > talking
-```
-
-</details>
-
-<details>
-<summary><code>run developer --inspect workflow</code></summary>
-
-```bash
-$ developer --inspect workflow
-
-1. analyze the problem
-2. break it into smaller parts
-3. build a working version
-4. refactor structure
-5. improve readability and logic
-6. repeat until solid
-```
-
-</details>
-
-<details>
-<summary><code>run developer --inspect goals</code></summary>
-
-```bash
-$ developer --inspect goals
-
-short-term:
-- stronger backend structure
-- better project quality
-- deeper understanding of architecture
-
-long-term:
-- production-level projects
-- advanced AI-assisted systems
-- stronger systems thinking
-```
-
-</details>
-
----
-
-## roadmap.sys
-
-```bash
-$ roadmap.sys
-
-[foundation]        [##############......] 70%
-[systems_thinking]  [######..............] 30%
-[production_builds] [####................] 20%
+execution      > theory
 ```
 
 ---
@@ -253,13 +183,10 @@ $ roadmap.sys
 ## runtime.status
 
 ```bash
-$ status
-
-mode          : learning
-momentum      : stable
-consistency   : high
-signal        : improving
-next_level    : professional-grade execution
+mode        : learning
+progress    : consistent
+direction   : upward
+next_step   : production-level development
 ```
 
 ---
@@ -267,17 +194,14 @@ next_level    : professional-grade execution
 ## contact
 
 ```bash
-$ contact --show
-
 email       : armin.lisic000@gmail.com
 portfolio   : https://armin-lisic-portfolio.netlify.app/
 instagram   : https://www.instagram.com/arminlisic/
-github      : you're already here
 ```
 
 ---
 
 ```text
-[ session closed ]
+[ session terminated ]
 [ armin@dev:~$ logout ]
 ```
