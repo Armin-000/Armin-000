@@ -1,111 +1,144 @@
-# Armin Lišić
+# armin@dev:~$
 
-Building systems, not just applications.
+```bash
+$ whoami
+Armin Lišić — full-stack developer (in progress)
 
----
-
-## Overview
-
-Junior full-stack developer focused on structure, clarity, and long-term scalability.
-
-Approach: understanding how things work internally → then building on top of that knowledge.
-
----
-
-## Engineering Profile
-
-```text
-discipline        █████████░ 85%
-problem_solving   ████████░░ 80%
-consistency       █████████░ 85%
-architecture      ██████░░░░ 60%
-depth_of_knowledge██████░░░░ 60%
+$ philosophy
+"build → break → understand → improve"
 ```
 
 ---
 
-## Technical Stack
+## system.info
 
-Frontend
-JavaScript · TypeScript · HTML · CSS
+```bash
+$ system.info
 
-Backend
-Node.js · PHP
-
-Data
-MySQL · HeidiSQL
-
-Systems & Tools
-Three.js · GSAP · Local AI (Ollama, LLM workflows)
+role        : junior developer (transitioning)
+focus       : full-stack systems
+approach    : structure-first development
+location    : Croatia
+status      : active
+```
 
 ---
 
-## Selected Work
+## skill.matrix
 
-Nexora
-→ modular AI assistant with local-first architecture
+```bash
+$ skill.matrix
 
-3D Systems (Three.js)
-→ real-time rendering, interaction, and scene structure
-
-JavaScript Projects
-→ logic-first implementations and UI experiments
-
-Teradata Simulation
-→ structured data processing (educational context)
+javascript      █████████░ 85%
+typescript      ████████░░ 80%
+frontend        ████████░░ 80%
+backend         ██████░░░░ 60%
+databases       ███████░░░ 70%
+threejs         █████░░░░░ 50%
+ai_workflows    ██████░░░░ 60%
+```
 
 ---
 
-## Current Direction
+## tech.stack
 
-```text
-→ strengthening core language fundamentals (JS/TS)
+```bash
+$ tech.stack
+
+frontend   → JavaScript, TypeScript, HTML, CSS
+backend    → Node.js, PHP
+database   → MySQL (HeidiSQL)
+systems    → Three.js, GSAP
+ai         → Ollama, local LLM workflows
+```
+
+---
+
+## active.projects
+
+```bash
+$ ls -projects
+
+nexora/
+  → local-first AI assistant (modular architecture)
+
+3d-nucleus/
+  → real-time rendering (Three.js)
+
+js-games/
+  → logic & interaction experiments
+
+portfolio/
+  → minimal structured interface
+
+teradata-sim/
+  → data processing simulation
+```
+
+---
+
+## current.focus
+
+```bash
+$ current.focus
+
+→ deepening JavaScript / TypeScript understanding
 → designing modular backend systems
-→ improving rendering pipelines (Three.js)
-→ integrating AI into real workflows (not demos)
-→ writing cleaner, more maintainable code
+→ improving Three.js rendering pipelines
+→ integrating AI into real development workflows
+→ writing cleaner, maintainable code
 ```
 
 ---
 
-## Roadmap
+## roadmap
 
-```text
-Phase 1 — Foundation
+```bash
+$ roadmap
+
+[phase_1] fundamentals
 ████████████░░░░░░ 70%
 
-Phase 2 — Systems Thinking
+[phase_2] system_design
 ██████░░░░░░░░░░░░ 30%
 
-Phase 3 — Production-Level Projects
+[phase_3] production_projects
 ████░░░░░░░░░░░░░░ 20%
 ```
 
 ---
 
-## Development Philosophy
+## dev.principles
 
-```text
-→ clarity over complexity
-→ structure over speed
-→ consistency over motivation
-→ understanding over copying
+```bash
+$ dev.principles
+
+- clarity > complexity
+- structure > speed
+- consistency > intensity
+- understanding > copying
 ```
 
 ---
 
-## Status
+## runtime.status
 
-```text
-current_state : transitioning → junior level
-focus         : long-term growth
-priority      : real-world capability
-trajectory    : stable upward
+```bash
+$ status
+
+mode        : learning
+progress    : steady
+direction   : upward
+goal        : confident junior developer
 ```
 
 ---
 
-## Contact
+## contact
 
-Email: [armin.lisic000@gmail.com](mailto:armin.lisic000@gmail.com)
-Portfolio: https://armin-lisic-portfolio.netlify.app/
+```bash
+$ contact --info
+
+email       : armin.lisic000@gmail.com
+portfolio   : https://armin-lisic-portfolio.netlify.app/
+```
