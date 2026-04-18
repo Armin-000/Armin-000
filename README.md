@@ -1,95 +1,106 @@
 # Armin Lišić
 
-Full-stack developer in progress — focused on building structured, maintainable, and real-world applications.
+Building systems, not just applications.
 
 ---
 
-## Profile
+## Overview
 
-Developing strong foundations in modern web technologies with an emphasis on understanding system design, not just implementation.
+Junior full-stack developer focused on structure, clarity, and long-term scalability.
 
-Working with JavaScript ecosystems, backend logic, databases, and integrating AI tools into practical workflows.
+Approach: understanding how things work internally → then building on top of that knowledge.
 
 ---
 
-## Skill Progress
+## Engineering Profile
 
+```text
+discipline        █████████░ 85%
+problem_solving   ████████░░ 80%
+consistency       █████████░ 85%
+architecture      ██████░░░░ 60%
+depth_of_knowledge██████░░░░ 60%
 ```
-JavaScript / TypeScript   [████████░░] 80%
-Frontend Development      [███████░░░] 70%
-Backend (Node.js / PHP)   [██████░░░░] 60%
-Databases (MySQL)         [███████░░░] 70%
-Three.js / 3D Web         [█████░░░░░] 50%
-AI Workflows (LLM)        [██████░░░░] 60%
-```
 
 ---
 
-## Tech Stack
+## Technical Stack
 
-Frontend:
-JavaScript · TypeScript · HTML · CSS · SCSS
+Frontend
+JavaScript · TypeScript · HTML · CSS
 
-Backend:
+Backend
 Node.js · PHP
 
-Database:
+Data
 MySQL · HeidiSQL
 
-Other:
-Three.js · GSAP · Ollama · Local LLM workflows
+Systems & Tools
+Three.js · GSAP · Local AI (Ollama, LLM workflows)
 
 ---
 
-## Projects
+## Selected Work
 
-**Nexora**
-Modular local AI assistant
+Nexora
+→ modular AI assistant with local-first architecture
 
-**3D Nucleus Models**
-Real-time rendering with Three.js
+3D Systems (Three.js)
+→ real-time rendering, interaction, and scene structure
 
-**JavaScript Games**
-Logic-focused mini projects
+JavaScript Projects
+→ logic-first implementations and UI experiments
 
-**Portfolio Interface**
-Minimal structured UI
-
-**Teradata Simulation**
-Data processing simulation (educational)
+Teradata Simulation
+→ structured data processing (educational context)
 
 ---
 
-## Current Focus
+## Current Direction
 
-* deeper JavaScript and TypeScript understanding
-* backend modular architecture
-* full-stack application design
-* Three.js optimization
-* practical AI integration
+```text
+→ strengthening core language fundamentals (JS/TS)
+→ designing modular backend systems
+→ improving rendering pipelines (Three.js)
+→ integrating AI into real workflows (not demos)
+→ writing cleaner, more maintainable code
+```
 
 ---
 
 ## Roadmap
 
-```
-[2025] Core Development
-██████████░░░░░░ 60%
+```text
+Phase 1 — Foundation
+████████████░░░░░░ 70%
 
-→ strengthen fundamentals
-→ build production-ready projects
-→ improve architecture thinking
+Phase 2 — Systems Thinking
+██████░░░░░░░░░░░░ 30%
+
+Phase 3 — Production-Level Projects
+████░░░░░░░░░░░░░░ 20%
 ```
 
 ---
 
-## System State
+## Development Philosophy
 
+```text
+→ clarity over complexity
+→ structure over speed
+→ consistency over motivation
+→ understanding over copying
 ```
-status:   evolving
-focus:    consistency > speed
-approach: build → break → understand → improve
-goal:     junior → confident developer
+
+---
+
+## Status
+
+```text
+current_state : transitioning → junior level
+focus         : long-term growth
+priority      : real-world capability
+trajectory    : stable upward
 ```
 
 ---
@@ -98,4 +109,3 @@ goal:     junior → confident developer
 
 Email: [armin.lisic000@gmail.com](mailto:armin.lisic000@gmail.com)
 Portfolio: https://armin-lisic-portfolio.netlify.app/
-Instagram: https://www.instagram.com/arminlisic/
