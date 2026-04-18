@@ -1,81 +1,101 @@
 # Armin Lišić
 
-Junior full-stack developer focused on building clean, structured, and scalable applications.  
-Actively learning through real-world projects and AI-assisted development.
+Full-stack developer in progress — focused on building structured, maintainable, and real-world applications.
 
 ---
 
-## About
+## Profile
 
-I am currently developing my skills in full-stack development with a strong focus on understanding how systems work internally, not just how to use them.
+Developing strong foundations in modern web technologies with an emphasis on understanding system design, not just implementation.
 
-My workflow includes modern JavaScript, backend logic, databases, and practical use of local AI tools to accelerate learning and improve code quality.
+Working with JavaScript ecosystems, backend logic, databases, and integrating AI tools into practical workflows.
 
 ---
 
-## Education
+## Skill Progress
 
-Bachelor’s Degree — IT Informatics  
-Master’s Student — Veleučilište u Rijeci  
+```
+JavaScript / TypeScript   [████████░░] 80%
+Frontend Development      [███████░░░] 70%
+Backend (Node.js / PHP)   [██████░░░░] 60%
+Databases (MySQL)         [███████░░░] 70%
+Three.js / 3D Web         [█████░░░░░] 50%
+AI Workflows (LLM)        [██████░░░░] 60%
+```
 
 ---
 
 ## Tech Stack
 
-**Frontend**  
-JavaScript, TypeScript, HTML, CSS, SCSS  
+Frontend:
+JavaScript · TypeScript · HTML · CSS · SCSS
 
-**Backend**  
-Node.js, PHP  
+Backend:
+Node.js · PHP
 
-**Database**  
-MySQL, HeidiSQL  
+Database:
+MySQL · HeidiSQL
 
-**Other**  
-Three.js, GSAP, local AI workflows (Ollama, LLMs)
+Other:
+Three.js · GSAP · Ollama · Local LLM workflows
 
 ---
 
 ## Projects
 
-**Nexora**  
-Local AI assistant with modular workflows  
+**Nexora**
+Modular local AI assistant
 
-**3D Models – Nucleus**  
-Real-time 3D rendering using Three.js  
+**3D Nucleus Models**
+Real-time rendering with Three.js
 
-**JavaScript Games**  
-Small projects focused on logic and UI  
+**JavaScript Games**
+Logic-focused mini projects
 
-**Portfolio Interface**  
-Minimal and structured personal website  
+**Portfolio Interface**
+Minimal structured UI
 
-**Teradata Simulation**  
-Educational data processing simulation  
+**Teradata Simulation**
+Data processing simulation (educational)
 
 ---
 
 ## Current Focus
 
-- strengthening JavaScript and TypeScript fundamentals  
-- backend architecture and modular design  
-- full-stack application structure  
-- Three.js performance and rendering  
-- practical AI integration  
+* deeper JavaScript and TypeScript understanding
+* backend modular architecture
+* full-stack application design
+* Three.js optimization
+* practical AI integration
 
 ---
 
 ## Roadmap
 
-- reach confident junior-level development  
-- build modular AI-assisted systems  
-- improve 3D web applications  
-- publish structured open-source projects  
+```
+[2025] Core Development
+██████████░░░░░░ 60%
+
+→ strengthen fundamentals
+→ build production-ready projects
+→ improve architecture thinking
+```
+
+---
+
+## System State
+
+```
+status:   evolving
+focus:    consistency > speed
+approach: build → break → understand → improve
+goal:     junior → confident developer
+```
 
 ---
 
 ## Contact
 
-Email: armin.lisic000@gmail.com  
-Portfolio: https://armin-lisic-portfolio.netlify.app/  
+Email: [armin.lisic000@gmail.com](mailto:armin.lisic000@gmail.com)
+Portfolio: https://armin-lisic-portfolio.netlify.app/
 Instagram: https://www.instagram.com/arminlisic/
