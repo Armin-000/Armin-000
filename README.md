@@ -197,7 +197,7 @@ next_step   : production-level development
 
 ```bash
 email       : armin.lisic000@gmail.com
-portfolio   : https://armin-lisic-portfolio.netlify.app/
+portfolio   : https://portfolio-arminlisic.netlify.app
 instagram   : https://www.instagram.com/arminlisic/
 ```
 
