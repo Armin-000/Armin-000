@@ -18,6 +18,14 @@
 
 ---
 
+## Codarox
+
+**Codarox** is my software engineering portfolio focused on modern web applications, interactive 3D systems, AI-powered tools, and engineering software.
+
+🌐 **https://codarox.com/**
+
+---
+
 ```text
 [ boot ] initializing developer profile...
 [ ok   ] loading core modules
